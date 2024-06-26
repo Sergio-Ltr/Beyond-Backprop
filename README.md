@@ -2,9 +2,9 @@
 Survey concerning NonBrackpop based learning algorithm for artificial neural netowrks. 
 In this repositoy, algorithms are collected and compared. 
 
-## Equilibrium Propagation: 
+## Equilibrium Propagation
 
-## EQ - Equilibrium propagation: Bridging the Gap between Energy-Based Models and Backpropagation 
+### EQ - Equilibrium propagation: Bridging the Gap between Energy-Based Models and Backpropagation 
 Official Implementation 
 https://github.com/smonsays/equilibrium-propagation
 
