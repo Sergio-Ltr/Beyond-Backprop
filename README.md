@@ -43,15 +43,17 @@ Official Implementation
 https://github.com/amassivek/signalpropagation
 
 ## Forward Forward 
+
+### FF - The Forward-Forward Algorithm: Some Preliminary Investigations
 Official Matlab Implementation linked here 
 https://www.cs.toronto.edu/~hinton/
 
 Unofficial Implementation (popular on github)
 https://github.com/mpezeshki/pytorch_forward_forward
 
-## IP 
+## Intrinsic Platicity  
 
-### Improving reservoirs using intrinsic plasticity
+### IP - Improving reservoirs using intrinsic plasticity
 Own Implementation
 https://github.com/Sergio-Ltr/ESN-IP
 
