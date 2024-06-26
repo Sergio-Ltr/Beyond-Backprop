@@ -15,9 +15,11 @@ https://github.com/Laborieux-Axel/Equilibrium-Propagation
 ## Target Propagation 
 
 ### TP - Target Propagation via Regularized Inversion for Recurrent Neural Networks
+Official Implementation 
 https://github.com/vroulet/tpri
 
 ### TPTT - Recurrent Neural Network with Target Propagation Through Time
+Official Implementation 
 https://github.com/nmanchev/tptt
 
 ## Feedback ALignemnt 
