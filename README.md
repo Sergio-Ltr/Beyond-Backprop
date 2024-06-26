@@ -1,4 +1,4 @@
-![image](https://github.com/Sergio-Ltr/Beyond-Backprop/assets/48917774/2a052d2c-ecad-49ed-a983-0e410d82daaa)# Beyond-Backprop
+# Beyond-Backprop
 Survey concerning NonBrackpop based learning algorithm for artificial neural netowrks. 
 In this repositoy, algorithms are collected and compared. 
 
