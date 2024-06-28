@@ -57,7 +57,7 @@ https://github.com/mpezeshki/pytorch_forward_forward
 
 ### IP - [Improving reservoirs using intrinsic plasticity](https://www.sciencedirect.com/science/article/pii/S0925231208000519)
 Own Implementation
-https://github.com/Sergio-Ltr/ESN-IP
+https://github.com/Sergio-Ltr/Generalized-Intrinsic-Plasticity
 
 ## Hebbian Mehtods 
 
